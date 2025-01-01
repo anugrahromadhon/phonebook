@@ -19,7 +19,6 @@ phonebook/
 ├── main.py         # Versi CLI
 ├── main_2.py       # Versi GUI
 ├── database.py     # Pengelola database
-├── phonebook.db    # File database SQLite
 └── README.md       # Dokumentasi proyek
 ```
 
